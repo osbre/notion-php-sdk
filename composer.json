@@ -1,15 +1,15 @@
 {
-    "name": "madewithlove/notion-php-sdk",
+    "name": "osbre/notion-php-sdk",
     "description": "An unofficial PHP SDK for Notion",
     "license": "MIT",
     "require": {
         "ext-json": "*",
         "guzzlehttp/guzzle": "^6.3",
         "illuminate/support": "^7.0",
-        "league/commonmark": "^0.19.2",
+        "league/commonmark": "^1.5",
         "league/uri": "^5.3",
-        "ramsey/uuid": "^3.8",
-        "symfony/cache": "^4.3"
+        "ramsey/uuid": "^4.0",
+        "symfony/cache": "^5.0"
     },
     "require-dev": {
         "madewithlove/php-cs-fixer-config": "^1.10",
